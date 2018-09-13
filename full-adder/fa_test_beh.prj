@@ -1,0 +1,2 @@
+vhdl work "full-adder.vhd"
+vhdl work "fa_test.vhd"

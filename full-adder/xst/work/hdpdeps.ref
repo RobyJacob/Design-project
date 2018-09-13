@@ -1,0 +1,6 @@
+V3 3
+FL /home/roby/full-adder/full-adder.vhd 2018/08/14.17:26:16 P.20131013
+EN work/full_adder 1534248202 FL /home/roby/full-adder/full-adder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/full_adder/Behavioral 1534248203 \
+      FL /home/roby/full-adder/full-adder.vhd EN work/full_adder 1534248202

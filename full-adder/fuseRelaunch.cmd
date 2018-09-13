@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/roby/full-adder/fa_test_isim_beh.exe" -prj "/home/roby/full-adder/fa_test_beh.prj" "work.fa_test" 
