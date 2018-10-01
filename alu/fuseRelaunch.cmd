@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "/home/roby/hardware-projects/alu/alu_test_isim_beh.exe" -prj "/home/roby/hardware-projects/alu/alu_test_beh.prj" "work.alu_test" 
